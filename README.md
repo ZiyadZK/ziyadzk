@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyadzk&label=Profile%20views&color=0e75b6&style=flat" alt="ziyadzk" /> </p>
 
-- 🔭 I’m currently working on [Skill Shift](https://github.com/lowermoon/)
-
-- 🌱 I’m currently learning **Cloud Computing, Frontend**
-
 - 📫 How to reach me **kakangtea74@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ziyadzkz](https://www.linkedin.com/in/ziyadzkz)
